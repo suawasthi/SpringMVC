@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/javax.servlet-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-aop-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-aop-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-aop-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-aspects-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-aspects-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-aspects-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-beans-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-beans-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-beans-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-context-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-context-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-context-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-context-support-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-context-support-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-context-support-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-core-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-core-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-core-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-expression-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-expression-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-expression-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-instrument-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-instrument-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-instrument-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-instrument-tomcat-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-instrument-tomcat-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-instrument-tomcat-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-web-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-web-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-web-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-webmvc-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-webmvc-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-webmvc-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-webmvc-portlet-4.2.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-webmvc-portlet-4.2.4.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/PDC3A-Training.PDC3A/Downloads/SpringMVC/SpringMVC/JARS/JARS/spring-webmvc-portlet-4.2.4.RELEASE-sources.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
